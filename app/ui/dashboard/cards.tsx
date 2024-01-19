@@ -18,7 +18,7 @@ export default async function CardWrapper({
   numberOfInvoices,
   totalPaidInvoices,
   totalPendingInvoices,
-}) {
+}:any) {
   return (
     <>
       {/* NOTE: comment in this code when you get to this point in the course */}
